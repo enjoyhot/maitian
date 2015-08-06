@@ -1,1 +1,1 @@
-[《麦田》](http://nswbmw.github.io/maitian/) —— 个人纯音乐收藏
+[音乐播放器](http://enjoyhot.github.io/maitian/) —— 个人纯音乐收藏
